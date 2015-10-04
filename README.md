@@ -1,5 +1,5 @@
-# TDD-Calculator
-A simple calculator using TDD
+# TDD-Fatorial
+A simple fatorial calculator using TDD
 
 # Running the program 
 
