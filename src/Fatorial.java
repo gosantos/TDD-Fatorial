@@ -1,3 +1,11 @@
+/**
+ * 
+ * @author 	Guilherme Oliveira
+ * @email 	guilhermeoliveira564@gmail.com
+ * @github 	github.com/gosantos
+ * 
+ */
+
 public class Fatorial {
 
 	public int calc(int n) {

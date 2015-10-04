@@ -16,4 +16,5 @@ public class FatorialTest {
 		Assert.assertNotEquals(720, fatorial.calc(20));
 		Assert.assertNotEquals(0, fatorial.calc(0));
 	}
+	
 }
